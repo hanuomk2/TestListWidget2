@@ -1,0 +1,23 @@
+#+TITLE:	README for TestListWidget2
+#+AUTHOR:	hanuomk2(odaba)
+#+DATE:		2017-06-03
+
+* TestListWidget2
+
+Qt(C++)による、フォルダ内の画像ファイルをリスト表示し、
+リストから選択した画像を拡大表示するよくあるビューア
+
+** 環境
+
+ - OS: 		Microsoft Windows 7 pro 64bit
+ - IDE: 	QtCreator 4.0.2 
+ - Qt(Ver.):Qt 5.7.0(MSVC 2015, 64ビット)
+
+** 使い方
+
+適当なフォルダにzipファイルを展開し、
+Qt Creatorで"TestListWidget.pro"ファイルを開き、実行して下さい。
+
+** 画面
+
+ [[file:TestListWidget2.jpg]] 
